@@ -1,2 +1,1 @@
-# LC4-Compiler
-Converts and parses Assembly code to and OBJ file and then to machine readable code, serving as a mini-compiler for Assembly code.
+Developed a mini-compiler capable of lexical analysis, syntax parsing, and code optimization for translating Assembly language code into an Object File (.OBJ), subsequently converting it into machine-readable code.
