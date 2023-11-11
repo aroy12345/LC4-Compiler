@@ -1,13 +1,4 @@
-/***************************************************************************
- * file name   : assembler.c                                               *
- * author      : tjf & you                                                 *
- * description : This program will assemble a .ASM file into a .OBJ file   *
- *               This program will use the "asm_parser" library to achieve *
- *			     its functionality.										   * 
- *                                                                         *
- ***************************************************************************
- *
- */
+
 
 #include <stdio.h>
 #include <string.h>
